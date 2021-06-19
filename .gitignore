@@ -5,3 +5,4 @@
 *.crc
 *.parquet
 *.orc
+*.gz
