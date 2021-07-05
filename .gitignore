@@ -6,3 +6,5 @@
 *.parquet
 *.orc
 *.gz
+*.jpg
+*.zip
